@@ -1,6 +1,6 @@
 # Learn Ray Tracing
 
-Ray tracing is a technique for creating highly realistic images by simulating light's path through an environment and how it interacts with virtual objects. It produces more realistic visuals than traditional methods but requires more computing power.
+Ray tracing (n.) is a technique for creating highly realistic images by simulating light's path through an environment and how it interacts with virtual objects. It produces more realistic visuals than traditional methods but requires more computing power.
 
 # Learning Resources
 
